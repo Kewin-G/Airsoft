@@ -58,6 +58,10 @@ font-size:18px;
 }
 
 .bekezdes{
-  font-weight:bold;
+  font-weight: bold;
 }
 
+.evszamok{
+  font-style:italic;
+  
+}
